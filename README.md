@@ -11,6 +11,10 @@ The activity is divided into three phases, each with different objectives and ch
 
 In this phase, we will learn the basics of C programming language, which is widely used in embedded systems. We will also learn about data structures and algorithms, which are essential for solving problems and optimizing performance. We will practice our skills by writing simple programs and testing them on a simulator.
 
+- Check out this [C language playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
+- Check out this [C language playlist](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif) for supplementary learning materials.
+- [Practice C language](https://www.w3schools.com/c/index.php)
+
 ### [Intermediate](/intermediate)
 
 In this phase, we will move on to interfacing and writing firmware for 8-bit microcontrollers (MCUs), such as AVR and PIC. These are small and low-cost chips that can control sensors, actuators, displays, and other peripherals. We will learn how to use various communication protocols, such as UART, SPI, and I2C, to connect our MCUs to external devices. We will also learn how to use timers, interrupts, and ADCs to handle timing and analog signals.
