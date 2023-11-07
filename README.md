@@ -2,6 +2,7 @@
 # Embedded Systems Student Activity
 
 Hello and welcome to the README.md file of the student activity led by me, the Head of Embedded Systems. In this activity, we will explore the fascinating world of embedded systems, which are devices that combine hardware and software to perform specific functions. Embedded systems are everywhere, from smartphones to cars to robots. If you are interested in learning how to design, program, and debug embedded systems, this activity is for you!
+![Embedded-Engineering-Roadmap](https://github.com/AhmedAdelWafdy7/EMBEDDED-ROADMAP-EGI/assets/107740350/360c5c6a-3cc7-415b-bde8-8e7d458334cc)
 
 The activity is divided into three phases, each with different objectives and challenges:
 
